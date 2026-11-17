@@ -1,1 +1,2 @@
-# Colombia-Seismic-Analysis - Dashboard - Status: inproces
+# Colombia-Seismic-Analysis
+Análisis de sismos en Colombia
